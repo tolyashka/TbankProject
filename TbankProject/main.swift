@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+let first = "Hello, World!"
+var second = "Hello, World!"
 
+print(first, terminator: " ===== ")
+print(second)
+
+print("Hello, world!")
